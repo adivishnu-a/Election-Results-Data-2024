@@ -39,6 +39,10 @@ This project utilizes web scraping techniques and interactive visualizations to 
   - pandas
   - plotly
 
+## Donut Chart
+
+![donut_chart](https://github.com/adivishnu-a/Election-Results-Data-2024/assets/95145136/858a59d3-4212-44ff-b1fd-e45be414dbb8)
+
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
