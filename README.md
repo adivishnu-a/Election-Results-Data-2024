@@ -1,6 +1,7 @@
 # Election Results Analysis
 
 This project utilizes web scraping techniques and interactive visualizations to analyze election results. The goal is to fetch data from the [https://results.eci.gov.in/](https://results.eci.gov.in/) website, process it into a structured dataframe using Python and BeautifulSoup, and then visualize key insights using Plotly.
+[View it on Kaggle](https://www.kaggle.com/code/adivishnu/election-results-2024)
 
 ## Features
 
